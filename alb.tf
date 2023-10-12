@@ -48,3 +48,4 @@ resource "aws_lb_listener" "albl" {
     target_group_arn = aws_lb_target_group.albtg.arn
   }
 }
+

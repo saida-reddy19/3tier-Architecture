@@ -5,3 +5,5 @@ resource "aws_vpc" "main" {
     Name = "CustomVPC"
   }
 }
+
+#saida
